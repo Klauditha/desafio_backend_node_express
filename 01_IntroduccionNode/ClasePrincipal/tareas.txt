@@ -1,0 +1,5 @@
+
+1. Ir al gym
+2. Ir al cine
+3. Ir al supermercado
+4. Ir al parque
